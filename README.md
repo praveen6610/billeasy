@@ -1,4 +1,4 @@
-# billeasy
+# Billeasy Project
 
 ### node + express + postgresql + heroku
 
